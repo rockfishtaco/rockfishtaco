@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rockfishtaco
-- 👀 interested in js development 
-- 🌱 foam concrete paste for walls
+- 👀  js development 
+- 🌱 enjoy
 - 💞️ clean water
-- 📫 holler out now ...rockfishtaco@gmail.com
+- 📫 holler out now .the highs and lows that follow us about now..rockfishtaco@gmail.com
 
 <!---
 rockfishtaco/rockfishtaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
